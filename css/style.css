@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+
+.nav_body{
+
+}
+
+h1{
+    color:green;
+}
+.author_img{
+
+    border-radius:50%;
+
+}
+.from_size{
+
+    margin-top: 100px;
+
+}
+
+
+.footer_body{
+    background-color: #272727;
+    padding-bottom: 148px;
+}
